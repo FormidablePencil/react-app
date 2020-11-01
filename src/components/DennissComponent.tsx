@@ -24,7 +24,7 @@ function DennissComponent() {
 
   return (
     <div className={calculatorExecuted ? 'evenLargerText' : 'bigText'} onClick={click}>
-      <p>Dennis is = {myCalculator(lifeLived.school, lifeLived.allElse)}</p>
+       <p>Dennis is = {myCalculator(lifeLived.school, lifeLived.allElse)}</p>
     </div>
   )
 }
@@ -44,9 +44,7 @@ export default DennissComponent
 // from app to app
 // navigate in the code editor
 
-// how would you jump to end of line?
-// how to make window larger with hotkeys?
-// how to delete whole line
+
 
 
 // parts:
@@ -58,3 +56,26 @@ export default DennissComponent
 
 // the rest is training the speed of these 3
 
+
+//  navigation: alt + tab
+//  terminal open: Ctrl + below esc    create terminal control shift below esc     delete: control shift del
+//  cut line: ctrl + x
+//  insert line below: control + enter && with shift
+//  toggles comment: contol + /
+//  toggle block comment    SHIFT ALT A
+//  glossary and opening files: control + p && with shift
+//  Control + w: close tab
+//  reopen control z for a tab: Control + shift + tab
+//  moving between words: alt > or < && with control
+//  Find: Control + F
+//  TOGGLE sidebar: Control + B
+//  Show extensions: control shift x, go back, control e
+//  navigation between files: control (shift) tab         control + pg up or down 
+//  control + del or with backspace
+//  control down or up
+//  correct format: shift alt f
+//  alt down && select words and alt down or up
+//  END && HOME
+//  Control shift k
+//  delete all left configre and also right
+//  move file to the left: control alt < or
