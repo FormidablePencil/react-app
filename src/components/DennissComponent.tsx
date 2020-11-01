@@ -40,12 +40,10 @@ export default DennissComponent
 // yarn start = npm start
 // yarn run start = npm run start
 
-// navigate from tab to tab
-// from app to app
-// navigate in the code editor
-
-
-
+// git add .
+// git commit -m 'message'
+// git push
+// git status
 
 // parts:
 // 1. navigation
@@ -79,3 +77,11 @@ export default DennissComponent
 //  Control shift k
 //  delete all left configre and also right
 //  move file to the left: control alt < or
+
+
+
+//  react (hard)
+//  typescript (ez)
+//  redux (ez)
+// >>> Create Projects
+// >>> Search for jobs
