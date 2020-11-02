@@ -46,7 +46,9 @@ export default DennissComponent
 // git status
 
 // parts:
-// 1. navigation
+// 1. navigation:
+//   Todo - create shortcut for opening terminal, deleting left and right of cursor, create alias for navigating to project
+//          to create alias in terminal - code ~/.bash_profile; Creating alias format - alias mydir="~/Documents/..."
 
 // 2. snippets
 
